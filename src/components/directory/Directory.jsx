@@ -1,9 +1,13 @@
 import React from 'react';
 import './Directory.css';
 
+import Card from '../card/Card';
+
 const Directory = () => (
   <div className="card-list">
-    <h1>Directory test</h1>
+    <Card />
+    <Card />
+    <Card />
   </div>
 )
 
