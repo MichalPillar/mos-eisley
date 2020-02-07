@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
+import Header from '../header/header';
+
 const App = () => {
   return (
-    <div>
-      <h1>Mos Eisley</h1>
+    <div className="container">
+      <Header />
     </div>
   );
 }

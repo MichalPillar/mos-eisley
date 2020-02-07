@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "StarJedi";
+  src: url("../../fonts/Starjedi.ttf") format("truetype");
+}
+
+.header {
+  background-color: #0d2149;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.header h1 {
+  color: #fff;
+  font-size: 2rem;
+  font-family: "StarJedi";
+  margin-left: 20px;
+}
