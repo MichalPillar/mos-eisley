@@ -1,0 +1,33 @@
+.card {
+  border: 2px solid #303030;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card h2 {
+  color: #463f1a;
+  margin-bottom: 5px;
+}
+
+.card h3 {
+  color: #60492c;
+  margin: 5px 0;
+}
+
+.card button {
+  width: 85%;
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin: 10px;
+  padding: 10px;
+  color: #208aae;
+  border-top: 2px solid transparent;
+  transition: border-top 0.2s ease;
+}
+
+.card button:hover {
+  border-top: 2px solid #208aae;
+}
