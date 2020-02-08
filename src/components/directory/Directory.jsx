@@ -3,13 +3,11 @@ import './Directory.css';
 
 import Card from '../card/Card';
 
-const Directory = () => (
+const Directory = props => (
   <div className="card-list">
-    <Card />
-    <Card />
-    <Card />
-    <Card />
-    <Card />
+    {props.starships && props.starships.map(starship => (
+      <Card key={starship.url} starship={starship} />
+    ))}
   </div>
 )
 

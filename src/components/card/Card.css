@@ -9,11 +9,15 @@
 .card h2 {
   color: #463f1a;
   margin-bottom: 5px;
+  text-align: center;
+  width: 95%;
 }
 
 .card h3 {
   color: #60492c;
   margin: 5px 0;
+  text-align: center;
+  width: 95%;
 }
 
 .card .description {

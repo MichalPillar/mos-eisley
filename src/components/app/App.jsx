@@ -13,11 +13,20 @@ class App extends React.Component {
     };
   }
 
+  componentDidMount() {
+    fetch('https://swapi.co/api/starships/')
+      .then(response => response.json())
+      .then(ships => this.setState({ starships: ships }))
+      .catch(err => console.log(err));
+  }
+
   render() {
+    const { starships } = this.state;
+
     return (
       <div className="container" >
         <Header />
-        <Directory />
+        <Directory starships={starships.results} />
       </div>
     );
   }
