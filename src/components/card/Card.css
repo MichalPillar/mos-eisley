@@ -16,6 +16,11 @@
   margin: 5px 0;
 }
 
+.card .description {
+  margin-top: 10px;
+  line-height: 1.5rem;
+}
+
 .card button {
   width: 85%;
   border: none;
@@ -24,6 +29,8 @@
   margin: 10px;
   padding: 10px;
   color: #208aae;
+  text-transform: uppercase;
+  font-weight: 700;
   border-top: 2px solid transparent;
   transition: border-top 0.2s ease;
 }
