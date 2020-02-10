@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "895a10eb11e103f581595b12ed995ad8",
+    "revision": "1058f4e9e2b995381576ad07eb6e28d8",
     "url": "/mos-eisley/index.html"
   },
   {
-    "revision": "b83e512915dce090159a",
-    "url": "/mos-eisley/static/css/main.67735a8f.chunk.css"
+    "revision": "a075aa03925b12812ef4",
+    "url": "/mos-eisley/static/css/main.f123d2ea.chunk.css"
   },
   {
     "revision": "cb884c94eb45264a9b8f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mos-eisley/static/js/2.ae5142af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b83e512915dce090159a",
-    "url": "/mos-eisley/static/js/main.7fc26eaa.chunk.js"
+    "revision": "a075aa03925b12812ef4",
+    "url": "/mos-eisley/static/js/main.4a2018ea.chunk.js"
   },
   {
     "revision": "b8f4c44b367dc88d6467",

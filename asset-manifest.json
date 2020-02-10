@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mos-eisley/static/css/main.67735a8f.chunk.css",
-    "main.js": "/mos-eisley/static/js/main.7fc26eaa.chunk.js",
-    "main.js.map": "/mos-eisley/static/js/main.7fc26eaa.chunk.js.map",
+    "main.css": "/mos-eisley/static/css/main.f123d2ea.chunk.css",
+    "main.js": "/mos-eisley/static/js/main.4a2018ea.chunk.js",
+    "main.js.map": "/mos-eisley/static/js/main.4a2018ea.chunk.js.map",
     "runtime-main.js": "/mos-eisley/static/js/runtime-main.d139a967.js",
     "runtime-main.js.map": "/mos-eisley/static/js/runtime-main.d139a967.js.map",
     "static/js/2.ae5142af.chunk.js": "/mos-eisley/static/js/2.ae5142af.chunk.js",
     "static/js/2.ae5142af.chunk.js.map": "/mos-eisley/static/js/2.ae5142af.chunk.js.map",
     "index.html": "/mos-eisley/index.html",
-    "precache-manifest.e3f3ffc1f494f352f28df46d90e4449f.js": "/mos-eisley/precache-manifest.e3f3ffc1f494f352f28df46d90e4449f.js",
+    "precache-manifest.9cc7b48c76026801ebed4acf8274472f.js": "/mos-eisley/precache-manifest.9cc7b48c76026801ebed4acf8274472f.js",
     "service-worker.js": "/mos-eisley/service-worker.js",
-    "static/css/main.67735a8f.chunk.css.map": "/mos-eisley/static/css/main.67735a8f.chunk.css.map",
+    "static/css/main.f123d2ea.chunk.css.map": "/mos-eisley/static/css/main.f123d2ea.chunk.css.map",
     "static/js/2.ae5142af.chunk.js.LICENSE.txt": "/mos-eisley/static/js/2.ae5142af.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/mos-eisley/static/media/Starjedi.cc3019aa.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.d139a967.js",
     "static/js/2.ae5142af.chunk.js",
-    "static/css/main.67735a8f.chunk.css",
-    "static/js/main.7fc26eaa.chunk.js"
+    "static/css/main.f123d2ea.chunk.css",
+    "static/js/main.4a2018ea.chunk.js"
   ]
 }
