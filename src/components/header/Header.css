@@ -18,11 +18,11 @@
   color: #fff;
   font-size: 2rem;
   font-family: "StarJedi";
-  margin: 20px 50px;
+  margin: 20px 0 20px 50px;
 }
 
 .header .search {
-  margin: 20px 50px;
+  margin: 20px 50px 20px 0;
 }
 
 @media only screen and (max-width: 600px) {
